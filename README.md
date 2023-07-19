@@ -11,15 +11,9 @@ This script allows you to convert YouTube videos to Variable Bitrates
 ## Installation
 
 1. Install `yt-dlp`:
-<<<<<<< HEAD
-   \```bash
-   pip install yt-dlp
-   \```
-=======
 ```
 pip install yt-dlp
 ```
->>>>>>> 949484755623dbc54086cd144c4a0fd022d0420a
 
 2. Ensure you have `ffmpeg` installed on your system. The installation process varies based on your operating system.
 
